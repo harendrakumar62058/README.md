@@ -8,7 +8,8 @@
 - 🌱 Currently learning **React JS & AWS**  
 - 🛠 Passionate about **backend development, system design, and scalable applications**  
 - 📌 Focused on **Spring Boot, Microservices, REST APIs, Security & Cloud Technologies**  
-- 📫 Reach me on **[LinkedIn](your-linkedin-url)**  
+- 📫 Reach me on **[LinkedIn](www.linkedin.com/in/harendra-kumar-3499102b3)
+)**  
 
 ---
 
@@ -39,12 +40,6 @@
 ### 🔥 Currently Exploring  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
 
 ---
 
