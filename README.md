@@ -49,5 +49,5 @@
 ---
 
 ### 📬 Let's Connect  
-🔗 **LinkedIn:** [your-linkedin-url]  
-📧 **Email:** your-email@example.com  
+🔗 **LinkedIn:** []  
+📧 **Email:** 
